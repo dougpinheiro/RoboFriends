@@ -1,0 +1,9 @@
+.card{
+    display: inline-block;
+    border: 1px dotted black;
+    text-align: center;
+}
+
+div{
+    margin: 5px;
+}
